@@ -6,6 +6,9 @@
 ### Data
   - CSV file
   - Size: 254871 x 24
+### Data Visulization
+![Screenshot 2024-05-03 112900](https://github.com/AngelinaN02/Class-Project/assets/143844139/cf277793-4a42-4a04-b325-3c7096f118ab)
+
   #### Preprocessing
     - I had to look to see if there were any missing values, which there were. There were a total of 5 categories that had missing values and then I got rid of those missing values.
 ## How to Reproduce
