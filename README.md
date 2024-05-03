@@ -11,6 +11,8 @@
 ## How to Reproduce
   - Remove the missing values to get a better-looking dataset.
   - It's best to use Google Collab due to it being easier to load the dataset, however, if the dataset is too big the package won't download. Then at that it would be best to use Jupyter Notebook.
+### Software Setup
+- There really is no package but a notebook that you can download called Class-Project.ipynb
 ### Data
   - You can download the data using this link https://www.kaggle.com/competitions/santander-product-recommendation/data
 ## Citation
